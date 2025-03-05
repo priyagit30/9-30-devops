@@ -3,7 +3,7 @@ Resources:
   MyS3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: my-devopss3-bucket01
+      BucketName: cicd-s3-demo-25
       VersioningConfiguration:
         Status: Enabled
 
